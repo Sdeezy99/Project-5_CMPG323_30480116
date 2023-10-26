@@ -1,5 +1,8 @@
 # Project-5_CMPG323_30480116
 
+
+![Powerbi-logo](https://github.com/Sdeezy99/Project-5_CMPG323_30480116/assets/140965300/d82ccea1-53cd-4399-b650-cb2c64051715)
+
 ## Project Overview
 EcoPower Logistics specializes in comprehensive logistics solutions for global resource and goods acquisition, storage, and transportation. To ensure efficient coordination, they utilize a logistics management system. The system involves order processing and a secure warehouse for storage. Data from the system can be shared through visualizations in a report or dashboard. These reports can be accessed by different stakeholders with varying levels of access. The project aims to create a Power BI report that provides stakeholders with consistent information about customer statuses and orders.
 
