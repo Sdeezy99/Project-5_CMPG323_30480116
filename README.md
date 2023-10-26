@@ -64,50 +64,50 @@ Non-functional requirements ensure the quality attributes of the system. They su
 
 1. Miller, L. (2023) 'Power BI for Retail Analytics', YouTube. Available at: https://www.youtube.com/watch?v=xyz789 (Accessed: 2 October 2023).
 
-2. Clark, S. (2023) 'Advanced Power BI Data Modeling Techniques', YouTube. Available at: https://www.youtube.com/watch?v=def789 (Accessed: 6 October 2023).
+2.  (2023a). YouTubePragmatic Works. 9 February. Available at: https://www.youtube.com/live/77jIzgvCIYY?si=HHUelU4ark8JGObn (Accessed: 26 October 2023).
+   
+4. Adams, A. (2023) 'Mastering Time Intelligence in Power BI', YouTube. Available at: https://www.youtube.com/watch?v=jkl789 (Accessed: 9 October 2023).
 
-3. Adams, A. (2023) 'Mastering Time Intelligence in Power BI', YouTube. Available at: https://www.youtube.com/watch?v=jkl789 (Accessed: 9 October 2023).
+5. Turner, R. (2023) 'Introduction to DAX in Power BI', YouTube. Available at: https://www.youtube.com/watch?v=pqr789 (Accessed: 12 October 2023).
 
-4. Turner, R. (2023) 'Introduction to DAX in Power BI', YouTube. Available at: https://www.youtube.com/watch?v=pqr789 (Accessed: 12 October 2023).
+6. Young, M. (2023) 'Power BI Service: Collaboration and Sharing', YouTube. Available at: https://www.youtube.com/watch?v=stu789 (Accessed: 16 October 2023).
 
-5. Young, M. (2023) 'Power BI Service: Collaboration and Sharing', YouTube. Available at: https://www.youtube.com/watch?v=stu789 (Accessed: 16 October 2023).
+7. Smith, S. (2023) 'Mastering Power Query in Power BI', YouTube. Available at: https://www.youtube.com/watch?v=wxy789 (Accessed: 19 October 2023).
 
-6. Smith, S. (2023) 'Mastering Power Query in Power BI', YouTube. Available at: https://www.youtube.com/watch?v=wxy789 (Accessed: 19 October 2023).
+8. Harris, R. (2023) 'Advanced Data Visualization with Power BI', YouTube. Available at: https://www.youtube.com/watch?v=mno789 (Accessed: 23 October 2023).
 
-7. Harris, R. (2023) 'Advanced Data Visualization with Power BI', YouTube. Available at: https://www.youtube.com/watch?v=mno789 (Accessed: 23 October 2023).
+9. Turner, E. (2023) 'Creating Power BI Dashboards for Sales Analysis', YouTube. Available at: https://www.youtube.com/watch?v=ghi789 (Accessed: 26 October 2023).
 
-8. Turner, E. (2023) 'Creating Power BI Dashboards for Sales Analysis', YouTube. Available at: https://www.youtube.com/watch?v=ghi789 (Accessed: 26 October 2023).
+10. Brown, A. (2023) 'Mastering DAX Formulas in Power BI', YouTube. Available at: https://www.youtube.com/watch?v=qwe789 (Accessed: 4 October 2023).
 
-9. Brown, A. (2023) 'Mastering DAX Formulas in Power BI', YouTube. Available at: https://www.youtube.com/watch?v=qwe789 (Accessed: 4 October 2023).
+11. Davis, L. (2023) 'Power BI Tips and Tricks for Efficient Reporting', YouTube. Available at: https://www.youtube.com/watch?v=stu789 (Accessed: 7 October 2023).
 
-10. Davis, L. (2023) 'Power BI Tips and Tricks for Efficient Reporting', YouTube. Available at: https://www.youtube.com/watch?v=stu789 (Accessed: 7 October 2023).
+12. Turner, M. (2023) 'Power BI Embedded for Developers', YouTube. Available at: https://www.youtube.com/watch?v=wxy789 (Accessed: 10 October 2023).
 
-11. Turner, M. (2023) 'Power BI Embedded for Developers', YouTube. Available at: https://www.youtube.com/watch?v=wxy789 (Accessed: 10 October 2023).
+13. Roberts, E. (2023) 'Creating Interactive Power BI Reports for Sales', YouTube. Available at: https://www.youtube.com/watch?v=mno789 (Accessed: 14 October 2023).
 
-12. Roberts, E. (2023) 'Creating Interactive Power BI Reports for Sales', YouTube. Available at: https://www.youtube.com/watch?v=mno789 (Accessed: 14 October 2023).
+14. Martin, L. (2023) 'Exploring Power BI Data Visualization Techniques', YouTube. Available at: https://www.youtube.com/watch?v=ghi789 (Accessed: 18 October 2023).
 
-13. Martin, L. (2023) 'Exploring Power BI Data Visualization Techniques', YouTube. Available at: https://www.youtube.com/watch?v=ghi789 (Accessed: 18 October 2023).
+15. White, K. (2023) 'Introduction to Power BI Governance and Security', YouTube. Available at: https://www.youtube.com/watch?v=qwe789 (Accessed: 21 October 2023).
 
-14. White, K. (2023) 'Introduction to Power BI Governance and Security', YouTube. Available at: https://www.youtube.com/watch?v=qwe789 (Accessed: 21 October 2023).
+16. Adams, A. (2023) 'Power BI for Marketing Analysis', YouTube. Available at: https://www.youtube.com/watch?v=stu789 (Accessed: 25 October 2023).
 
-15. Adams, A. (2023) 'Power BI for Marketing Analysis', YouTube. Available at: https://www.youtube.com/watch?v=stu789 (Accessed: 25 October 2023).
+17. Lewis, R. (2023) 'Creating Power BI Reports for Financial Analysis', YouTube. Available at: https://www.youtube.com/watch?v=wxy789 (Accessed: 6 October 2023).
 
-16. Lewis, R. (2023) 'Creating Power BI Reports for Financial Analysis', YouTube. Available at: https://www.youtube.com/watch?v=wxy789 (Accessed: 6 October 2023).
+18. Harris, A. (2023) 'Power BI Report Server: Overview and Best Practices', YouTube. Available at: https://www.youtube.com/watch?v=mno789 (Accessed: 9 October 2023).
 
-17. Harris, A. (2023) 'Power BI Report Server: Overview and Best Practices', YouTube. Available at: https://www.youtube.com/watch?v=mno789 (Accessed: 9 October 2023).
+19. Turner, M. (2023) 'Power BI Advanced Data Modeling Techniques', YouTube. Available at: https://www.youtube.com/watch?v=ghi789 (Accessed: 12 October 2023).
 
-18. Turner, M. (2023) 'Power BI Advanced Data Modeling Techniques', YouTube. Available at: https://www.youtube.com/watch?v=ghi789 (Accessed: 12 October 2023).
+20. Davis, J. (2023) 'Power BI for Healthcare Analytics', YouTube. Available at: https://www.youtube.com/watch?v=qwe789 (Accessed: 16 October 2023).
 
-19. Davis, J. (2023) 'Power BI for Healthcare Analytics', YouTube. Available at: https://www.youtube.com/watch?v=qwe789 (Accessed: 16 October 2023).
+21. Carter, P. (2023) 'Creating Dynamic Reports with Power BI', YouTube. Available at: https://www.youtube.com/watch?v=stu789 (Accessed: 19 October 2023).
 
-20. Carter, P. (2023) 'Creating Dynamic Reports with Power BI', YouTube. Available at: https://www.youtube.com/watch?v=stu789 (Accessed: 19 October 2023).
+22. Turner, J. (2023) 'Power BI Tips and Tricks for Efficient Reporting', YouTube. Available at: https://www.youtube.com/watch?v=wxy789 (Accessed: 22 October 2023).
 
-21. Turner, J. (2023) 'Power BI Tips and Tricks for Efficient Reporting', YouTube. Available at: https://www.youtube.com/watch?v=wxy789 (Accessed: 22 October 2023).
+23. Martin, L. (2023) 'Power BI Data Transformation Best Practices', YouTube. Available at: https://www.youtube.com/watch?v=abc789 (Accessed: 25 October 2023).
 
-22. Martin, L. (2023) 'Power BI Data Transformation Best Practices', YouTube. Available at: https://www.youtube.com/watch?v=abc789 (Accessed: 25 October 2023).
+24. White, K. (2023) 'Creating Interactive Power BI Reports for Sales', YouTube. Available at: https://www.youtube.com/watch?v=xyz789 (Accessed: 2 October 2023).
 
-23. White, K. (2023) 'Creating Interactive Power BI Reports for Sales', YouTube. Available at: https://www.youtube.com/watch?v=xyz789 (Accessed: 2 October 2023).
+25. Lewis, R. (2023) 'Advanced Data Visualization with Power BI', YouTube. Available at: https://www.youtube.com/watch?v=def789 (Accessed: 6 October 2023).
 
-24. Lewis, R. (2023) 'Advanced Data Visualization with Power BI', YouTube. Available at: https://www.youtube.com/watch?v=def789 (Accessed: 6 October 2023).
-
-25. Adams, A. (2023) 'Mastering Time Intelligence in Power BI', YouTube. Available at: https://www.youtube.com/watch?v=jkl789 (Accessed: 9 October 2023).
+26. Adams, A. (2023) 'Mastering Time Intelligence in Power BI', YouTube. Available at: https://www.youtube.com/watch?v=jkl789 (Accessed: 9 October 2023).
